@@ -10,3 +10,5 @@ Implementation of linear classifiers using Euclidean and Mahalanobis distance, a
 
 - [Variational Autoencoder]() \
 
+
+- [You Only Look Once(v1)]() \
