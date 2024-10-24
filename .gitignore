@@ -6,6 +6,8 @@ venv/
 
 *.DS_Store
 
+Variational Autoencoder\chest_xray
+
 Thumbs.db
 
 *.log
