@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+
+venv/
+.env
+
+*.DS_Store
+
+Thumbs.db
+
+*.log
+*.png
+*.txt
+*.csv
+*.bak
+*.jpg
+*.jpeg
+Variational Autoencoder/ece175_project.pdf
+*.bak2
+*.dat
+YOLO/datasets/signDatabasePublicFramesOnly/datasetDescription.pdf
+YOLO/utils/iou.py
+YOLO/utils/mean_avg_precision.py
+YOLO/utils/nms.py
+YOLO/datasets/signDatabasePublicFramesOnly/tools/splitAnnotationFiles.py
+YOLO/datasets/signDatabasePublicFramesOnly/tools/mergeAnnotationFiles.py
+YOLO/datasets/signDatabasePublicFramesOnly/tools/extractAnnotations.py
+YOLO/datasets/signDatabasePublicFramesOnly/tools/evaluateDetections.py
+YOLO/datasets/PASCAL VOC/get_data
+YOLO/datasets/PASCAL VOC/generate_csv.py
